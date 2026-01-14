@@ -152,4 +152,4 @@ create public synonym employees for hr.employees;
 SELECT *
   FROM employees;
 
-
+-----------------
